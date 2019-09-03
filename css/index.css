@@ -1,0 +1,114 @@
+body{
+	background: red;
+}
+.border
+{
+background:rgb(106, 101, 205);
+padding-right: 20px;
+}
+li a
+{
+	color: black;
+	/*text-align: right;*/
+	/*float: right;*/
+	margin-left: 50px;
+}
+
+li a:hover{
+	color: black;
+}
+.text-block {
+  position: absolute;
+  top: 40%;
+  left: 20%;
+  text-align: center;
+  color: white;
+  padding-left: 200px;
+  padding-right: 200px;
+}
+.text-input {
+  position: absolute;
+  top: 200%;
+  left: 15%;
+  font-size: 30px;
+  text-align: center;
+  /*color: white;*/
+  padding-left: 200px;
+  border-radius:105px;
+  outline: none;
+  padding-right: 200px;
+  padding-top: 30px;
+}
+::placeholder{
+	font-size: 30px;
+	/*p*/
+
+	/*padding-top: -10px;	*/
+	/*padding-top: 70%;*/
+	/*margin-left: 20px;*/
+	/*padding-left: 20px;*/
+	/*margin-top: 40px;*/
+	/*margin-bottom: 20px;*/
+	/*margin-top: -10px;
+	padding-top: 100px;
+*/
+}
+div img{
+	width: 100%;
+	padding: 10px;
+}
+.why {
+  position: absolute;
+  /*top: 40%;
+  left: 20%;*/
+  text-align: center;
+  color: white;
+  padding-left: 40%;
+  padding-top: 20px;
+  padding-right: 30px;
+  /*font-size: 68px;*/
+}
+.sp-color{
+	color: white;
+}
+span{
+	padding-left: 30px;
+	/*padding-right: 10px;*/
+}
+.box-model{
+	/*width: 10%;*/
+	/*height: 200%;*/
+	background: white;
+	margin-left: 35px;
+	/*margin:35px;*/
+	height: 280px;
+	font-weight: bold;
+	font-family: serif;
+	border-radius: 5px;
+}
+.box-bottom{
+	background: red;
+	margin-top: 80px;
+	height: 80px;
+	width:225px;
+	margin-right:25px;
+	margin-left: -15px;
+	/*padding-right: 20px;*/
+	/*padding-left: 100px;*/
+	/*margin-left: 20px;*/
+
+}
+
+.box{
+	
+	height: 250px;
+	width: 100%;
+	background: rgb(106, 112, 246);
+	margin-left: 0px;
+	/*margin-right: 10px;*/
+	padding-top: 120px;
+	
+}
+.text-format{
+
+}
